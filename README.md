@@ -1,7 +1,7 @@
 
-![update](https://github.com/user-attachments/assets/321c7ba2-9178-490d-acca-0dbc8118e83e)
+![0_yBvA5CnEX3Sd4aod](https://github.com/user-attachments/assets/baabe117-a7df-4d44-b4b0-8b597c417800)
 
-## Hi there 👋
+## Hi Everyone 👋
 
 <!--
 **anushreeghosh123/anushreeghosh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
