@@ -8,7 +8,7 @@
 
 <h1 align="centre"> About me </h1>
 <p align="left"> 
-<h4 align="left">I'm a final-year Computer Science student passionate about building innovative tech solutions. My journey so far has been a blend of coding, exploring AI, and creating impactful projects. Whether it's crafting efficient algorithms, automating tasks with AI, or working on real-world problems through IoT systems, I'm always looking for ways to push the boundaries of technology.</h4></p>
+<h4 align="left">I'm a final-year Computer Science student passionate about building innovative tech solutions. My journey so far has been a blend of coding, exploring AI, and creating impactful projects. Whether it's crafting efficient algorithms, automating tasks with AI, or working on real-world problems through ML systems, I'm always looking for ways to push the boundaries of technology.</h4></p>
 <p align="left>
  
 <h4 align="left">Check out my repositories for projects . I'm constantly learning and experimenting with new tech stacks, and I love collaborating on open-source projects. Let’s connect and code something awesome! </h4>
