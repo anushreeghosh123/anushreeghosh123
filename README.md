@@ -1,5 +1,5 @@
 
-![0_yBvA5CnEX3Sd4aod-ezgif com-resize](https://github.com/user-attachments/assets/62464d7c-f5ff-4d99-adee-8dfb98b41b04)
+![0_yBvA5CnEX3Sd4aod-ezgif com-resize](https://github.com/user-attachments/assets/8bc866f1-fc2c-435a-b2db-a67a56046a9a)
 
 <h1 align="center">Hi There 👋, I'm Anushree Ghosh</h1>
 <h2 align="center">A passionate Software Engineer from India</h2>
