@@ -1,7 +1,9 @@
 
-![0_yBvA5CnEX3Sd4aod-ezgif com-resize (2)](https://github.com/user-attachments/assets/e93718e1-ec7b-42a0-b9b5-72a299ef1458)"
 
 <h1 align="center">Hi There👋, I'm Anushree Ghosh</h1>
+
+![0_yBvA5CnEX3Sd4aod-ezgif com-resize (2)](https://github.com/user-attachments/assets/e93718e1-ec7b-42a0-b9b5-72a299ef1458)
+
 <h2 align="center">A passionate Software Engineer from India</h2>
 
 <h1 align="centre"> About me </h1>
